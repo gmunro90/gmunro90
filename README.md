@@ -5,4 +5,6 @@
 - 👯 I’m actively looking for employment in Barcelona &/or remote work
 - 🤔 I’m looking for help with building my network
 - 💬 Ask me about anything tech related, I love to chat!
-- 📫 Reach me @ www.greg-munro.com
+- 📫 Reach me @ 
+
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/> www.greg-munro.com
