@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🔭 I’m currently working on honing my skills I learnt during my bootcamp in 2021 (MERN stack)
 - 🌱 I live in Barcelona
