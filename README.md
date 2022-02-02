@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Backend-ExpressJS-informational?style=flat&logo=expressjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![] (https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## GitHub Stats
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gmunro90&show_icons=true&theme=vue&icon_color=f4cd7c&hide_border=true" />
